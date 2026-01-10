@@ -1,4 +1,4 @@
-import { TrendingUp, FileText } from "lucide-react";
+import { TrendingUp, FileText, Users } from "lucide-react";
 
 export default function TransparencyPage() {
   return (
